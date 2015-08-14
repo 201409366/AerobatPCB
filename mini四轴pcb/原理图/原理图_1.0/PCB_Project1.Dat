@@ -1,0 +1,31 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~D:\university\circuit\STM32\RT_Thread\迷你四轴飞行器\四轴相关\原理图\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~86|ReportField=ReportTime~15:54:34|ReportField=ReportDate~2015/6/7|ReportField=ReportDateTime~2015/6/7 15:54:34|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2015/6/7|ReportField=CurrentTime~15:54:31|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\university\circuit\STM32\RT_Thread\迷你四轴飞行器\四轴相关\原理图\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2015/6/7|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~D:\university\circuit\STM32\RT_Thread\迷你四轴飞行器\四轴相关\原理图\PCB_Project1.PrjPCB
+22pF||C2, C4|0805|CAP|2
+104||C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C18, C19, C20|0603|CAP|14
+106||C16|0603|CAP|1
+104||C17|0805|CAP|1
+IN4148||D1, D2, D3, D4|1206|DIODE|4
+SMBJ5.0A||D5|DIOM4436X23N|SMBJ5.0A|1
+10uf||EC1, EC2, EC3, EC4, EC5, EC6, EC7, EC8|1206|EC|8
+LED||LED1, LED2, LED3, LED4, LED5, LED6|0805|LED|6
+AO3416|N-Channel MOSFET|Q1|SOT-23_N|MOSFET-N|1
+MOSFET-N|N-Channel MOSFET|Q2, Q3, Q4|SOT-23_N|MOSFET-N|3
+10K||R1|0603|RES|1
+RES||R2|0805|RES|1
+1K||R3, R4, R7, R8, R12, R19, R27, R28, R29, R30|0603|RES|10
+0R||R5, R9, R10, R11, R13, R14, R15, R16, R23, R26|0603|RES|10
+20K||R6, R17, R18, R24, R25|0603|RES|5
+3K||R20, R21, R22|0603|RES|3
+CON4||S1, S2|SIP4|CON4|2
+M0||S3|0805|CON2|1
+M1||S4|0805|CON2|1
+M2||S5|0805|CON2|1
+M3||S6|0805|CON2|1
+CON2||S7|1206|CON2|1
+CON2||S8|SIP2|CON2|1
+KEY2||SW1|SSOP2N|KEY2|1
+STM32F103RBT6||U1|TSQFP50P1200X1200X160-64N|STM32F103RBT6|1
+NRF24L01||U2|CN8|NRF24L01|1
+MPU6050||U3|QFN50P400X400X95_HS-25N|MPU6050|1
+AMS1117||U4|SOT223|AMS1117|1
+32.768KHz||X1|XTAL-50-2|XTAL|1
+8MHz||X2|XTAL-200|XTAL|1
