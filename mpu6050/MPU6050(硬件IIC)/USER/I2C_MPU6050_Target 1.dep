@@ -1,5 +1,5 @@
 Dependencies for Project 'I2C_MPU6050', Target 'Target 1': (DO NOT MODIFY !)
-F (.\main.c)(0x55B0ECB6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS-I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
+F (.\main.c)(0x55D03293)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS-I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o ..\output\main.o --omf_browse ..\output\main.crf --depend ..\output\main.d)
 I (..\CMSIS\stm32f10x.h)(0x4D783CB4)
 I (..\CMSIS\core_cm3.h)(0x4D523B58)
 I (E:\Keil\ARM\ARMCC\include\stdint.h)(0x51C7C554)
@@ -48,7 +48,7 @@ I (..\FWlib\inc\stm32f10x_i2c.h)(0x4D783BB4)
 I (..\FWlib\inc\stm32f10x_rcc.h)(0x4D783BB4)
 I (..\FWlib\inc\stm32f10x_usart.h)(0x4D783BB4)
 I (delay.h)(0x4E3FDEA4)
-F (.\I2C_MPU6050.c)(0x55B37E25)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS-I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o ..\output\i2c_mpu6050.o --omf_browse ..\output\i2c_mpu6050.crf --depend ..\output\i2c_mpu6050.d)
+F (.\I2C_MPU6050.c)(0x55B37E64)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork -I..\USER -I..\FWlib\inc -I..\CMSIS-I E:\Keil\ARM\RV31\INC-I E:\Keil\ARM\CMSIS\Include-I E:\Keil\ARM\Inc\ST\STM32F10x-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD-o ..\output\i2c_mpu6050.o --omf_browse ..\output\i2c_mpu6050.crf --depend ..\output\i2c_mpu6050.d)
 I (I2C_MPU6050.h)(0x55B30107)
 I (..\CMSIS\stm32f10x.h)(0x4D783CB4)
 I (..\CMSIS\core_cm3.h)(0x4D523B58)
