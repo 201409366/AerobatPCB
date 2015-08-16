@@ -282,7 +282,7 @@
       <ColumnNumber>18</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>52</TopLine>
-      <CurrentLine>12</CurrentLine>
+      <CurrentLine>63</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>.\I2C_MPU6050.c</PathWithFileName>
       <FilenameWithoutPath>I2C_MPU6050.c</FilenameWithoutPath>
